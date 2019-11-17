@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         local_load@codepen
 // @namespace    https://gist.github.com/esabox/
-// @updateURL    https://codepen.io/esabox/pen/bzxpzo.js
-// @homepageURL  https://codepen.io/esabox/pen/bzxpzo?editors=0012
+// @updateURL    https://github.com/esabox/user.js/raw/master/local_file_reuire.user.js
+// @homepageURL  https://github.com/esabox/user.js/raw/master/local_file_reuire.user.js
 // @version 2019.11.17.120654
 // @author       nank
 // @match        *://*/*
@@ -22,6 +22,8 @@
 // x@require      http://localhost:8888/mypo.user.js
 // ==/UserScript==
 
+// @updateURL    https://codepen.io/esabox/pen/bzxpzo.js
+// @homepageURL  https://codepen.io/esabox/pen/bzxpzo?editors=0012
 // @include *
 // @homepageURL  https://gist.github.com/esabox/e168594e77f35c6e18e4b5ecbe4272c0/edit
 // @downloadURL  https://gist.github.com/esabox/e168594e77f35c6e18e4b5ecbe4272c0/raw/mbpR13Late.user.js
