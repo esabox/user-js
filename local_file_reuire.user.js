@@ -39,4 +39,7 @@ s.src = ( 'http://localhost:8888/mypo.user.js'); //+"?"+Date.now() //引数あ�
 document.body.appendChild( s );
 
 gistにあげようとしたら、二段階認証がめんどくてcodepenに
+
+2019/11/18
+githubに変更
 */
