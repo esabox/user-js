@@ -3,7 +3,7 @@
 // @namespace    https://gist.github.com/esabox/
 // @updateURL    https://github.com/esabox/user.js/raw/master/local_file_reuire.user.js
 // @homepageURL  https://github.com/esabox/user.js/raw/master/local_file_reuire.user.js
-// @version 2019.11.17.120654
+// @version 2019.12.02.171237
 // @author       nank
 // @match        *://*/*
 // @exclude      ^https://codepen.io/*
