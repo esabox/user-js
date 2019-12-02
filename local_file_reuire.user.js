@@ -9,6 +9,7 @@
 // @exclude      ^https://codepen.io/*
 // @exclude      ^http://localhost*
 // x@exclude    /^http://localhost.*/
+// @exclude     https://docs.google.com/*
 // @grant	GM_registerMenuCommand
 // @grant 	GM_getValue
 // @grant 	GM_setValue
