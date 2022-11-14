@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name           @req file:///userjs
-// @description fileプロトコルで@require
+// @name         @req file:///userjs
+// @description  fileプロトコルで@require
 // @namespace    https://gist.github.com/esabox/
-// @updateURL     https://github.com/esabox/user.js/raw/master/local_file_reuire.user.js
-// @downloadURL https://github.com/esabox/user.js/raw/master/local_file_reuire.user.js
-// @version      2022-11-14
+// @updateURL    https://github.com/esabox/user.js/raw/master/local_file_reuire.user.js
+// @downloadURL  https://github.com/esabox/user.js/raw/master/local_file_reuire.user.js
+// @version      2022-11-141
 // @author       nank
 // @match        *://*/*
 // @exclude      ^https://codepen.io/*
-// @exclude     https://docs.google.com/*
+// @exclude      https://docs.google.com/*
 // @grant	GM_registerMenuCommand
 // @grant 	GM_getValue
 // @grant 	GM_setValue
