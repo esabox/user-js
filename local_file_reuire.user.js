@@ -2,6 +2,7 @@
 // @name         @req file:///userjs
 // @description  fileプロトコルで@require
 // @namespace    https://gist.github.com/esabox/
+// @homepageURL  https://github.com/esabox/user-js/raw/master/local_file_reuire.user.js
 // @updateURL    https://github.com/esabox/user.js/raw/master/local_file_reuire.user.js
 // @downloadURL  https://github.com/esabox/user.js/raw/master/local_file_reuire.user.js
 // @version      2022-11-141
